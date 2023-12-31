@@ -1,0 +1,11 @@
+*.huff
+.venv/
+__pycache__/
+*.json
+bench.md
+*.ae
+*.bz2
+*.gz
+*.lzma
+.ruff_cache/
+*.pkl
